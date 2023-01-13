@@ -1,0 +1,18 @@
+#Ensure this file isn't ignored
+!.gitignore
+
+#standard
+out/
+/out/
+.idea/
+/.idea/
+*.iml
+*.xml
+*/.xml
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+#etc
+.DS_Store
+/build
+/captures
